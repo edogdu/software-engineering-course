@@ -1,3 +1,3 @@
-# Software Engineering Course - Fall 2020
+# Software Engineering Course
 
 ## [Course Wiki](https://github.com/edogdu/software-engineering-2020/wiki)
